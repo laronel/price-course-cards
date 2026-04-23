@@ -1,0 +1,14 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.cards-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.course-img{
+  width: 300px;
+}
